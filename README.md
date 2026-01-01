@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there
+  - Name: Nathan Fabisiewicz
+  - College Status: Undergraduate/Sophomore
+  - Major: Computing in the Arts, Computer Science: Game Dev and Interaction
+  - Interests: Game Design, Software Development, Algorithms
 
-<!--
-**NathanF05/NathanF05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Skills
+  - Python
+  - Jython
+  - Java
 
-Here are some ideas to get you started:
+## Projects
+  - Java: School Assignments/Projects & Labs
+  - Python: School Assignments/Projects & Labs
+  - Jython: School Assignments/Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+  - LinkedIn: www.linkedin.com/in/nathan-fabisiewicz-82b355290
+  - Handshake: https://app.joinhandshake.com/profiles/6pfcpj
+  - Email: nathanmanfab@gmail.com
+
+## Other
+- I'm currently working on: No projects at the moment. Working on class assignments.
+- I'm currently learning: Data Structure and Algorithms (My class next semester at CofC)
+- I'm looking to collaborate on: Any Game Design Projects
+- I'm looking for help with: Any Game Design Projects
+- Ask me about: The Courses I have taken or any assignments I've worked on.
+- Pronouns: He/Him
+- Fun fact: Completed all coding classes at my high school (Got a certificate to prove it).
